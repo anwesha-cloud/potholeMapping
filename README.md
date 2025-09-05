@@ -1,6 +1,6 @@
 # Pothole mapping
 
-> How to run
+How to run:
 
 On https://geojson.io
 

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8777,
+          19.076
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "latitude": 19.076,
+        "longitude": 72.8777,
+        "severity": "moderate",
+        "detection_timestamp": "2025-08-20T10:15:00Z",
+        "street_name": "Dr Annie Besant Rd",
+        "street_direction": "N",
+        "image_url": "https://example.com/gsv/1"
+      }
+    }
+  ]
+}
